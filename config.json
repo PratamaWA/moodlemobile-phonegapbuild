@@ -54,7 +54,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://sispedig.hol.es",
+    "siteurl": "sispedig.hol.es",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,

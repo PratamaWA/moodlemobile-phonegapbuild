@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "es.sispedig.sispedigmobile"
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Moodle</name>
+    <name>SISPEDIG</name>
 
     <description>
-        Moodle official app
+        SISTEM PELATIHAN DIGITAL
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://sispedig.hol.es" email="">
         Moodle Mobile team
     </author>
 
@@ -68,7 +68,7 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
-    <icon src="icon.png" />
+    <icon src="icon1.png" />
     <gap:splash src="splash.png" />
 
     <platform name="android">

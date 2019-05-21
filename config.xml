@@ -6,10 +6,10 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>SISPEDIG</name>
+    <name>SIMPPOL</name>
 
     <description>
-        SISTEM PELATIHAN DIGITAL
+        SISTEM INFORMASI PEMBELAJARAN PERKOPERASIAN SECARA ONLINE
     </description>
 
     <author href="http://sispedig.hol.es" email="">
@@ -165,7 +165,7 @@
         <variable name="FCM_VERSION" value="17.0.+" />
     </gap:plugin>
 
-    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='SISPEDIG']" mode="merge">
+    <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='SIMPPOL']" mode="merge">
         <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
     </edit-config>
 

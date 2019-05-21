@@ -808,7 +808,7 @@
     "core.login.siteaddress": "Alamat situs",
     "core.login.siteinmaintenance": "Situs Anda sedang dalam mode perbaikan",
     "core.login.sitepolicynotagreederror": "Kebijakan situs tidak disepakati.",
-    "core.login.siteurl": "URL situs",
+    "core.login.siteurl": "http://sispedig.hol.es/",
     "core.login.siteurlrequired": "URL situs diperlukan, misal <i> http://www.yourmoodlesite.abc atau https: //www.yourmoodlesite.efg </ i>",
     "core.login.startsignup": "Silahkan daftar untuk jadi anggota baru!",
     "core.login.stillcantconnect": "Masih belum dapat terhubung?",

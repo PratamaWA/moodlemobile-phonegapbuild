@@ -85,7 +85,7 @@ var sites_CoreLoginSitesPage = /** @class */ (function () {
         this.sitesProvider.getSortedSites().then(function (sites) {
             // Remove protocol from the url to show more url text.
             _this.sites = sites.map(function (site) {
-                site.siteUrl = site.siteUrl.replace('http://simppol.diskopukm.jatimprov.go.id/app');
+               site.siteUrl = site.siteUrl.replace(/^https?:\/\//, '');
                 site.badge = 0;
                 _this.pushNotificationsProvider.getSiteCounter(site.id).then(function (counter) {
                     site.badge = counter;

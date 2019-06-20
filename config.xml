@@ -166,12 +166,8 @@
     </gap:plugin>
 
     <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='SIMPPOL']" mode="merge">
-        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize"></activity>
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="false"></activity>
     </edit-config>
-        
-        <gap:config-file platform="android" parent="/manifest">
-         <application android:debuggable="false" />
-        </gap:config-file>
 
     <!-- See MOBILE-892 -->
     <preference name="permissions" value="none"/>

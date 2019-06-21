@@ -3,16 +3,16 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "simppol.diskopukm"
-        versionCode = "36100"
-        android-versionCode="36100"
-        version   = "3.6.1">
+        versionCode = "36200"
+        android-versionCode="36200"
+        version   = "3.6.2">
     <name>SIMPPOL</name>
 
     <description>
         SISTEM INFORMASI PEMBELAJARAN PERKOPERASIAN SECARA ONLINE
     </description>
 
-    <author href="http://sispedig.hol.es" email="">
+    <author href="http://simppol.diskopukm.jatimprov.go.id/" email="">
         Moodle Mobile team
     </author>
 

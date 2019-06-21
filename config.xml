@@ -51,6 +51,7 @@
     <preference name="AppendUserAgent" value="MoodleMobile" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="android-maxSdkVersion" value="28" />
+     <preference name="android-targetSdkVersion" value="28" />
     <preference name="android-installLocation" value="auto" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />

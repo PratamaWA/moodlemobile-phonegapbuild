@@ -76,7 +76,7 @@ var site_CoreLoginSitePage = /** @class */ (function () {
         this.showKeyboard = false;
         this.filter = '';
         this.showKeyboard = !!navParams.get('showKeyboard');
-        var url = 'http://simppol.diskopukm.jatimprov.go.id/app';
+        var url = 'http://app.sijawara.diskopukm.jatimprov.go.id';
         // Load fixed sites if they're set.
         if (this.loginHelper.hasSeveralFixedSites()) {
             this.fixedSites = this.loginHelper.getFixedSites();

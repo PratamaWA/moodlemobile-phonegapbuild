@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>838509397853-mv3pnsgtjl6fpnp9fkp91d9f4ol4o26c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.838509397853-mv3pnsgtjl6fpnp9fkp91d9f4ol4o26c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYzdu6YUQ1RLVz7PV4S4ht4cEqGcelbjs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>838509397853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sijawara.diskopukm.jatimprov</string>
+	<key>PROJECT_ID</key>
+	<string>sijawara-71d7f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sijawara-71d7f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:838509397853:ios:823506f52303c9b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://sijawara-71d7f.firebaseio.com</string>
+</dict>
+</plist>

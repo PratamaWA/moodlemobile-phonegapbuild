@@ -1,14 +1,14 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "sijawara.diskopukm.jatimprov",
+    "appname": "SIJAWARA",
+    "desktopappname": "SIJAWARA",
     "versioncode": 3700,
     "versionname": "3.7.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "id",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -56,33 +56,22 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+   
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://app.sijawara.diskopukm.jatimprov.go.id",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
-    "notificoncolor": "#f98012",
+    "notificoncolor": "#4e8ef7",
     "statusbarbg": false,
     "statusbarlighttext": false,
-    "statusbarbgios": "#f98012",
+    "statusbarbgios": "#4e8ef7",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#df7310",
+    "statusbarbgandroid": "#4e8ef7",
     "statusbarlighttextandroid": true,
-    "statusbarbgremotetheme": "#000000",
+    "statusbarbgremotetheme": "#4e8ef7",
     "statusbarlighttextremotetheme": true,
     "enableanalytics": false
 }

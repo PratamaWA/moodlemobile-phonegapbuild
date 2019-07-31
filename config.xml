@@ -6,13 +6,13 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>SIMPPOL</name>
+    <name>SIJAWARA</name>
 
     <description>
-        Sistem Informasi Pembelajaran Perkoperasian Online
+        Sistem Informasi Pembelajaran dan Peningkatan Wawasan Perkoperasian Online
     </description>
 
-    <author href="http://simppol.diskopukm.jatimprov.go.id/" email="widopratama13@gmail.com">
+    <author href="http://sijawara.diskopukm.jatimprov.go.id/" email="widopratama13@gmail.com">
         SIMPPOL Mobile team
     </author>
 
